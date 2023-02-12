@@ -12,5 +12,5 @@ If you have any problems submit an issue.
 
 I will be updating it to keep up with less laggy bots
 
---Updated 2/11/23
+--Updated 2/12/23
 --Status: WORKING
